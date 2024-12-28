@@ -28,7 +28,7 @@ Because Apache Spark doesn't provide a Docker image with Scala 2.13 support, we 
 
 The following tags are available for this Docker image:
 
-- `latest` (3.5.4-scala2.13-java8-python3-r-ubuntu)
+- `latest` (`3.5.4-scala2.13-java8-python3-r-ubuntu`)
 - `3.5.4-scala2.13-java8-python3-r-ubuntu`, `3.5.4-scala2.13-java8-python3-ubuntu`, `3.5.4-scala2.13-java8-r-ubuntu`, `3.5.4-scala2.13-java8-ubuntu`
 - `3.5.4-scala2.13-java11-python3-r-ubuntu`, `3.5.4-scala2.13-java11-python3-ubuntu`, `3.5.4-scala2.13-java11-r-ubuntu`, `3.5.4-scala2.13-java11-ubuntu`
 - `3.5.4-scala2.13-java17-python3-r-ubuntu`, `3.5.4-scala2.13-java17-python3-ubuntu`, `3.5.4-scala2.13-java17-r-ubuntu`, `3.5.4-scala2.13-java17-ubuntu`
