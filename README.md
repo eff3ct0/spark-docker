@@ -1,4 +1,4 @@
-# Apache Spark Official Dockerfiles
+# Apache Spark with Scala 2.13 UnOfficial Dockerfiles
 
 ## What is Apache Spark?
 
